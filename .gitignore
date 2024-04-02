@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 **/PackageCache/**
+/Unit_1-Unity_Basics/UCA-Gamedev_unit2/Library
+/Unit_1-Unity_Basics/UCA-Gamedev_unit2/Temp
