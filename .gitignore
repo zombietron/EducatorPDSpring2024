@@ -73,3 +73,9 @@ crashlytics-build.properties
 
 **/PackageCache/**
 
+/Unit_2-Make_a_Game/Unit_2_GameDev/Library
+/Unit_2-Make_a_Game/Unit_2_GameDev/Logs
+
+Unit_2-Make_a_Game/Unit_2_GameDev/.vsconfig
+/Unit_2-Make_a_Game/Unit_2_GameDev/Temp
+/Unit_2-Make_a_Game/Unit_2_GameDev/UserSettings
