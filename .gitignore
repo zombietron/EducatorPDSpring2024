@@ -73,5 +73,3 @@ crashlytics-build.properties
 
 **/PackageCache/**
 
-/Unit_1-Unity_Basics/UCA-Gamedev_unit2/Library
-*.log
